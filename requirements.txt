@@ -1,5 +1,8 @@
 jupyter
 numpy==1.26.4
 pandas==3.0.0
+<<<<<<< HEAD
 matplotlib==3.10.8
 seaborn==0.13.2
+=======
+>>>>>>> 6dbe0963635c365a02f0d8d91722012771e654fa
