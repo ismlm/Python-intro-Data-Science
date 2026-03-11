@@ -42,9 +42,10 @@ Para abrir el servidor de MLFlow primero tenemos que encender dicho servidor
 
 Escribimos esto en la terminal 
 
-```bash
+```bash 
 mlflow server
 ```
+
 Lo cual deberia devolvernos un link al cual entraremos 
 
 ## Usar el archivo Dockerfile
